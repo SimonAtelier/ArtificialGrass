@@ -11,5 +11,9 @@
   + Particle Effects
   + Ballons
   + Boots
+  + Mounts
+  + Gadgets
+  + Music
+  + Taunts
 * **Coin System**
 * **Multi-World-Mode**
