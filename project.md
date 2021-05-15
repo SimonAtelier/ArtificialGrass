@@ -21,3 +21,11 @@
 
 Daily Reward (Villager?)
 Enable / Disable Build Mode
+
+```yaml
+CONFIG
+Worlds:
+  - world
+  - lobby
+  - hub
+```
