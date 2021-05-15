@@ -20,3 +20,4 @@
 * **MOTD** Message Of The Day
 
 Daily Reward (Villager?)
+Enable / Disable Build Mode
