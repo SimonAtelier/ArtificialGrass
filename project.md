@@ -17,3 +17,6 @@
   + Taunts
 * **Coin System**
 * **Multi-World-Mode**
+* **MOTD** Message Of The Day
+
+Daily Reward (Villager?)
